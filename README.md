@@ -1,2 +1,2 @@
-# ecommerce_rtk
-E-Commerce Data Rendering using React Toolkit
+# E-Commerce application
+ E-Commerce application using React and Redux 
